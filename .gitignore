@@ -3,3 +3,5 @@
 ./AuthJwt/bin
 .vs*
 /.vs
+.vs//AuthJwt
+./.vs//AuthJwt
