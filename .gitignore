@@ -1,3 +1,5 @@
 
 ./.vs*
 ./AuthJwt/bin
+.vs*
+/.vs
